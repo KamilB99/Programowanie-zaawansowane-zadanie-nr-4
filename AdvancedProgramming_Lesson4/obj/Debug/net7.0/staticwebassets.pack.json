@@ -1,0 +1,177 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Kamil\\Studia\\programowanie zaawansowane\\4\\AdvancedProgramming_Lesson4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AdvancedProgramming_Lesson4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AdvancedProgramming_Lesson4.props",
+      "PackagePath": "build\\AdvancedProgramming_Lesson4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AdvancedProgramming_Lesson4.props",
+      "PackagePath": "buildMultiTargeting\\AdvancedProgramming_Lesson4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AdvancedProgramming_Lesson4.props",
+      "PackagePath": "buildTransitive\\AdvancedProgramming_Lesson4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
